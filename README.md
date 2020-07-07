@@ -13,10 +13,10 @@ A simple to-do app created using react
 ![screenshot 1](imgs/desktop_view.jpg "Desktop view")
 
 
-                                                 Tablet view ( width > 930px )
+                                                 Tablet view ( 1180px > width > 930px )
 ![screenshot 2](imgs/tab_view.jpg "Tablet view")
 
 
-                                                Mobile view ( width > 0px )
+                                                Mobile view ( 930px > width > 0px )
 ![screenshot 3](imgs/mobile_view.jpg "Mobile view") 
 
